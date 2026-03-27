@@ -201,7 +201,7 @@ nav a:hover {
     max-width: 450px;
     height: 350px;
     object-fit: cover;
-    border-radius: 20px; /* Pyöristys tässä */
+    border-radius: 20px;
     margin-left: 50px;
     border: 8px solid rgba(255,255,255,0.05);
 }
@@ -227,7 +227,7 @@ footer {
         padding: 40px 20px;
     }
 
-    /* Korjattu luokan nimi tässä: .map-img -> .worker-img */
+
     .worker-img {
         margin-left: 0;
         margin-top: 40px;
